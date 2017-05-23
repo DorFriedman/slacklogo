@@ -1,0 +1,34 @@
+div {
+	width: 590px;
+	height: 110px;
+	border-radius: 200px;
+	mix-blend-mode: multiply;
+}
+.green {
+	background-color: #3CB187;
+	transform: rotate(72deg);
+	position: relative;
+	left: -80px;
+	top: 315px;
+
+}
+.blue {
+	background-color: #72C5CD;
+	transform: rotate(-18deg);
+	position: relative;
+	top: 60px;
+}
+.red {
+	background-color: #CE1E5B;
+	transform: rotate(-18deg);
+	position: relative;
+	top: 170px;
+	left: 60px;
+}
+.yellow {
+	background-color: #DFA22F;
+	transform: rotate(72deg);
+	position: relative;
+	top: -80px;
+	left: 145px;
+}
